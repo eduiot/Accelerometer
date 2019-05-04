@@ -7,7 +7,7 @@
         <!-- versionCode is optional and Android only -->
         <preference name="phonegap-version" value="cli-8.0.0" />
 
-        <name>Phonegap Accelerometer test</name>
+        <name>Accelerometer test</name>
         <description>Simple Accelerometer test.</description>
         <author href="http://we2app.com" email="atik@we2app.com">
         Jesse Monroy
