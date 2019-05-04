@@ -10,8 +10,9 @@
         <name>Accelerometer test</name>
         <description>Simple Accelerometer test.</description>
         <author href="http://we2app.com" email="atik@we2app.com">
-        Jesse Monroy
+        Atik
         </author>
+        <icon src="icon.png" />
         <gap:platform name="android" />
         <gap:platform name="ios" />
 
